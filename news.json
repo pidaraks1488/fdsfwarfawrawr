@@ -1,1 +1,19 @@
-
+{
+  "news": [
+    {
+      "title": "Recent",
+      "description": "We have created a loader for you. Good luck!",
+      "date": "2026-03-12"
+    },
+    {
+      "title": "Update",
+      "description": "A new build 1.3 update is available. You can update to the latest version now.",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "Update",
+      "description": "A new build 1.2 update is available. You can update to the latest version now.",
+      "date": "2026-03-07"
+    }
+  ]
+}
