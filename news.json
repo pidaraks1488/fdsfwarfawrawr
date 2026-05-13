@@ -2,18 +2,18 @@
   "news": [
     {
       "title": "Recent",
+      "description": "A new build 1.46 update is available. You can update to the latest version now.",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Update",
       "description": "A new build 1.45 update is available. You can update to the latest version now.",
       "date": "2026-05-08"
     },
     {
       "title": "Update",
-      "description": "A new build 1.43 update is available. You can update to the latest version now.",
+      "description": "A new build 1.44 update is available. You can update to the latest version now.",
       "date": "2026-05-06"
-    },
-    {
-      "title": "Update",
-      "description": "A new build 1.42 update is available. You can update to the latest version now.",
-      "date": "2026-05-04"
     }
   ]
 }
